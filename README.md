@@ -4,25 +4,22 @@
 Sequoia theme adapted to APP
 
 
-# Instructions
+# Instrucctions
 
-- Prefferences/Themes/Paste the codes.
-
-
-# Available themes:
-
-Moonlight:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#F0BA92,#FFBB88,#0F1014,#868690
-
-Monochrome:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#FFFFFF,#B6BAC8,#0F1014,#868690
+1. Open Bear Blog
+2. Navigate to styling
+3. Copy the css on the css files like midnight.css, sunset.css and morning.css from this repo.
+4. Paste the copied code on the box and click save.
 
 
 
 ## Screenshots
 
 ### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
+![Moonlight](https://github.com/Sequoia-Theme/bear-blog/blob/main/moonlight.png?raw=true)
+
+### Monochrome
+![Moonlight](https://github.com/Sequoia-Theme/bear-blog/blob/main/monochrome.png?raw=true)
 
 
 #
