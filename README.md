@@ -8,7 +8,7 @@ Sequoia theme adapted to APP
 
 1. Open Bear Blog
 2. Navigate to styling
-3. Copy the css on the css files like midnight.css, sunset.css and morning.css from this repo.
+3. Copy the css on the css files like moonlight.css, sunset.css and morning.css from this repo.
 4. Paste the copied code on the box and click save.
 
 
